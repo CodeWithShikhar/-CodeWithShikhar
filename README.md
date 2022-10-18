@@ -1,4 +1,4 @@
-<h1 align="center">Hey coder's ,Shikhar mishra   here<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="50px"> </h1>
+<h1 align="center">Hey Shikhar mishra   here<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="50px" width="50px"> </h1>
 
 <h3 align="left">A front end   web developer from India and I am a intense learner ,  Learning new technologies and have intrest  in contributions that make my knowledge useful for others.</h3>
 
@@ -9,11 +9,11 @@
 
  - 🔭 I’m currently working on a Platform Project *LetsDosomething*
 
-- 🌱 I’m currently learning  and *javascript*
+- 🌱 I’m currently learning  and *java*
 
-- 👨‍💻 All of my projects are available at [github.com/codERSunny812/](github.com/codERSunny812)
+- 👨‍💻 All of my projects are available at [github.com/codewithshikhar/](github.com/codewithshikhar)
 
-- 📫 How to reach me *sengersunny448@gmail.com*
+- 📫 How to reach me *shikharmishra2003@gmail.com*
  
 - Ask me about *python, html and css*
  <br>
@@ -52,18 +52,7 @@
  <hr>
 
 
- <h2 align="centre"> Top repositary <h3>
- &nbsp;&nbsp;
-<a href="https://github.com/codERSunny812/travelblog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=travelblog&theme=midnight-purple" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/codERSunny812/travelWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=codERSunny812&repo=travelWeb&theme=midnight-purple" />
-</a>
- <br>
- <br>
- <br>
- <br>
+
  <br>
  <p>
   <i>“Ruby is rubbish! PHP is phpantastic!”</i>
